@@ -1,0 +1,1 @@
+In this project, i'll be styling the previous projects i created using just semantic html with CSS.
